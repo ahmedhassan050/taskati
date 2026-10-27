@@ -48,8 +48,7 @@
 ## 📁 Project Structure
 
 ```text
-taskati/
-├── android/
+taskati
 ├── assets/
 │   ├── images/
 │   ├── icons/
