@@ -43,43 +43,7 @@
 
 > **Note:** Replace the screenshot paths above with your actual application screenshots. You can also add more screens to showcase the app.
 
-## 🚀 Getting Started
 
-Follow these steps to run Taskati locally.
-
-### Prerequisites
-
-Make sure you have installed:
-
-* [Flutter SDK](https://docs.flutter.dev/get-started/install)
-* [Dart SDK](https://dart.dev/get-dart)
-* [Git](https://git-scm.com/)
-
-### Installation
-
-**1. Clone the repository**
-
-```bash
-git clone YOUR_REPOSITORY_URL
-```
-
-**2. Navigate to the project directory**
-
-```bash
-cd taskati
-```
-
-**3. Install dependencies**
-
-```bash
-flutter pub get
-```
-
-**4. Run the application**
-
-```bash
-flutter run
-```
 
 ## 📁 Project Structure
 
