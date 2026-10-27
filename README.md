@@ -69,9 +69,7 @@ taskati
 │   │   ├── splash/
 │   │   └── upload/
 │   └── main.dart
-├── test/
 ├── pubspec.yaml
-├── pubspec.lock
 └── README.md
 ```
 
